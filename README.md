@@ -3,7 +3,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
-![](https://komarev.com/ghpvc/?username=drgasajid&color=orange)
+![](https://komarev.com/ghpvc/?username=drgasajid&color=green)
 
 <a href="https://drgsajid.me">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=drgasajid&count_private=true&show_icons=true&theme=github_dark" />
@@ -15,4 +15,4 @@
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=drgasajid&theme=elegant" /></div>
 
 <br/> 
-<div  align="center"> <img src="https://github.com/drgasajid/drgasajid/blob/output/github-snake.gif" /></div>
+<div  align="center"> <img src="https://github.com/drgasajid/drgasajid/blob/output/github-snake.gif"/></div>
