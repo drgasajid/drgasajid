@@ -9,7 +9,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=drgasajid&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
-<br/> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drgasajid&theme=elegant)](https://git.io/streak-stats)
 
 <br/> 
