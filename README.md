@@ -13,6 +13,3 @@
 
 <br/> 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=drgasajid&theme=elegant" /></div>
-
-<br/> 
-<div  align="center"> <img src="https://github.com/drgasajid/drgasajid/blob/output/github-snake.gif"/></div>
