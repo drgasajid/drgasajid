@@ -9,7 +9,6 @@
 
 <br />
 ![](https://komarev.com/ghpvc/?username=drgasajid&color=green)
-<br />
 
 <a href="https://drgsajid.me">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=drgasajid&count_private=true&show_icons=true&theme=github_dark" />
