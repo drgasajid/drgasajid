@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br />
 ![](https://komarev.com/ghpvc/?username=drgasajid&color=orange)
 
@@ -11,7 +10,6 @@
 </a>
 
 <br/> 
-<br/> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drgasajid&theme=elegant)](https://git.io/streak-stats)
 
 <br/> 
@@ -19,4 +17,3 @@
 
 <br/> 
 <div  align="center"> <img src="https://github.com/drgasajid/drgasajid/blob/output/github-snake.gif" /></div>
-<br/>
