@@ -2,9 +2,21 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br />
-![Profile View Counter](https://komarev.com/ghpvc/?username=drgasajid)
-<br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=drgasajid&show_icons=true)
 
+<br />
+![](https://komarev.com/ghpvc/?username=drgasajid&color=orange)
 
+<a href="https://drgsajid.me">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=drgasajid&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
+<br/> 
+<br/> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drgasajid&theme=elegant)](https://git.io/streak-stats)
+
+<br/> 
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=drgasajid&theme=elegant" /></div>
+
+<br/> 
+<div  align="center"> <img src="https://github.com/drgasajid/drgasajid/blob/output/github-snake.gif" /></div>
+<br/>
